@@ -1,5 +1,8 @@
 # 繁花量化
 
+<img width="532" alt="image" src="https://github.com/user-attachments/assets/1fdf8a17-8522-4df9-9c68-ab65a891ea91" />
+
+
 ## 项目介绍
 
 繁花量化（Fanho）是一个 7x24 自动监测花园（iirose）的股票价格并做出决策的量化交易系统。  
